@@ -1,0 +1,14 @@
+name: tme-diffusion
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - scanpy
+  - pytorch
+  - scikit-learn
+  - anndata
+  - matplotlib
+  - seaborn
+  - celltypist
+  - jupyterlab
